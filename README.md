@@ -7,6 +7,12 @@ Y. Xia, K. Granström, L. Svensson and Á. F. García-Fernández, "An Implementa
 
 Full text is available at https://arxiv.org/pdf/1811.12281.pdf
 
+and in
+
+Y. Xia, K. Granström, L. Svensson, Á. F. García-Fernández and Jason L. Williams, "Multi-Scan Implementation of the Trajectory Poisson Multi-Bernoulli Mixture Filter," Accepted for publication in Journal of Advances in Information Fusion (special issue on Multiple Hypothesis Tracker), 2020
+
+Full text is available at https://arxiv.org/abs/1912.01748
+
 More details on the point target PMBM tracker can be found in the paper 
 
 Granström, Karl, Lennart Svensson, Yuxuan Xia, Jason Williams, and Ángel F. García-Femández. "Poisson multi-Bernoulli mixture trackers: continuity through random finite sets of trajectories." In 2018 21st International Conference on Information Fusion (FUSION). IEEE, 2018.
