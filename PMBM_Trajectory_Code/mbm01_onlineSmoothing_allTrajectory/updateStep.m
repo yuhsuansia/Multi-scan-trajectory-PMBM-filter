@@ -139,7 +139,7 @@ for i = 1:nb
     
     % missed detection hypothesis
     trajectoryNewMBM((i-1)*(m+2)+2).c = -log((1-Pd)*MB_birth(i).r);
-    trajectoryUpdMBM((i-1)*(m+2)+2).w = 1-Pd;
+    trajectoryNewMBM((i-1)*(m+2)+2).w = 1-Pd;
     trajectoryNewMBM((i-1)*(m+2)+2).r = 1;
     trajectoryNewMBM((i-1)*(m+2)+2).xpre = MB_birth(i).x;
     trajectoryNewMBM((i-1)*(m+2)+2).Ppre = MB_birth(i).P;
